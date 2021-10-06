@@ -4,7 +4,7 @@
 **HousingInsecurity_RentPredictionModel.ipynb**
 
 Objectives:
-- Using data on housing loss to find factors that can reduce housing insecurity. 
+- Use data on housing loss to find factors that can reduce housing insecurity. 
 - Predict a fair market rent price for social housing based on local housing market information from census data.
 - Model can be used to easily identify overpriced social housing so it can be adjusted accordingly to help reduce housing loss.
 
@@ -25,8 +25,8 @@ Skills:
 **HousingInsecurity_DataKind_EDA.ipynb**
 
 Objectives:
-- Using data on housing loss to find factors that can reduce housing insecurity.
-- Exploring if Florida reserves more units for certain protected groups compared to other locations?
+- Use data on housing loss to find factors that can reduce housing insecurity.
+- Explore whether Florida reserves more units for certain protected groups compared to other locations.
 
 Skills:
 - Exploratory Data Analysis
@@ -38,7 +38,7 @@ Skills:
 
 Objectives:
 - Track trends of fast food restaurants in the USA per city/capita.
-- Investigate if there is a higher number of fast food restaurants per capita in the geographic south of mainland USA?
+- Investigate whether there is a higher number of fast food restaurants per capita in the geographic south of mainland USA.
 
 Skills:
 - Exploratory Data Analysis
