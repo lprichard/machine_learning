@@ -1,7 +1,31 @@
 # Projects Using Machine Learning & Data Science Skills
 
+**HousingInsecurity_EvictionRateModel.ipynb**
+
+Housing Insecurity Project: Predicting Areas with High Eviction Rates
+
+Objectives:
+- Use data on housing loss to find factors that can reduce housing insecurity. 
+- Predict areas with above average eviction rates based on correlating demographic factors.
+- Model can be used to easily identify areas that may have higher than average eviction rates so additional resources can be allocated to reduce housing loss.
+
+Skills:
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Testing of Feature Importance
+- Predictive Modeling
+- Hyperparameter Tuning
+- Training & Testing Models
+    - Linear Regression
+    - Logistic Regression
+    - K-Nearest Neigbors
+    - Decision Tree
+- Cross Validation
 
 **HousingInsecurity_RentPredictionModel.ipynb**
+
+Housing Insecurity Project: Predicting Fair Rental Prices for Social Housing
 
 Objectives:
 - Use data on housing loss to find factors that can reduce housing insecurity. 
