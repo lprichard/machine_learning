@@ -1,5 +1,33 @@
 # Projects Using Machine Learning & Data Science Skills
 
+**HousingInsecurity_EvictionRateClustering.ipynb**
+
+Housing Insecurity Project: Exploring Factors Causing High Eviction Rates
+
+Objectives:
+- Use data on housing loss to find factors that can reduce housing insecurity. 
+- Explore factors affecting eviction rates using unsupervised machine learning (ML) clustering and dimensionality reduction methods.
+- Use results to see if predicting areas with higher than average eviction rates with supervised ML are improved with initial exploration using unsupervised ML.
+- Model can be used to easily identify areas that may have higher than average eviction rates so additional resources can be allocated to reduce housing loss.
+
+Skills:
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Testing of Feature Importance
+- Predictive Modeling
+- Hyperparameter Tuning
+- Unsupervised Methods
+    - K-Means Clustering
+    - Agglomerative Clustering
+    - Principal Component Analysis
+- Supervised Models
+    - Random Forest Classifier
+    - Linear Regression
+    - Logistic Regression
+- Cross Validation
+
+
 **HousingInsecurity_EvictionRateModel.ipynb**
 
 Housing Insecurity Project: Predicting Areas with High Eviction Rates
@@ -22,6 +50,7 @@ Skills:
     - K-Nearest Neigbors
     - Decision Tree
 - Cross Validation
+
 
 **HousingInsecurity_RentPredictionModel.ipynb**
 
