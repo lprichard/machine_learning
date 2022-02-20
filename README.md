@@ -1,5 +1,29 @@
 # Projects Using Machine Learning & Data Science Skills
 
+**UnemploymentRate_TimeSeriesPredict.ipynb**
+
+US Unemployment Rate Predictions to Track Pandemic Impact in 2020
+
+Objectives:
+- Use time series prediction models to estimate expected US unemployment rate in 2020 in order to accurately measure the effects of the COVID-19 pandemic on US unemployment rate in 2020. 
+- Data from 2019 will be used to test time series prediction models and then the best fitting model will be used to forecast expected unemployment rates for 2020 and compared to the actual unemployment figures by different group demographics.
+
+Skills:
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Data Visualization
+- Time Series Decomposition
+- Testing Stationarity
+- Training Time Series Models
+    - Simple Average
+    - Single Exponential
+    - Double Exponential
+    - Triple Exponential
+- Time Series Forecasting
+- Cross Validation
+
+
 **HousingInsecurity_EvictionRateDeepLearn.ipynb**
 
 Housing Insecurity Project: Predicting High Eviction Rates with Deep Learning
